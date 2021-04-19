@@ -23,7 +23,6 @@
     "url": "https://github.com/rajtatata/react-native-expo-tweet-nacl"
   },
   "dependencies": {
-    "base64-js": "^1.3.0",
-    "expo-random": "^5.0.1"
+    "base64-js": "^1.3.0"
   }
 }
